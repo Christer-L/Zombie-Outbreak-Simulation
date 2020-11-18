@@ -1,1 +1,1 @@
-# Zombie-Outbreak-Simulation-Biomedical-Modelling-2019-
+# Zombie Outbreak Simulation (Biomedical-Modelling, 2019)
